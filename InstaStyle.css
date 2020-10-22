@@ -69,7 +69,7 @@ body{
 .reg_form p {
 	font-weight: 600;
     line-height: 20px;
-    font-size: 17px;
+    font-size: 18px;
     color:#999;
     text-align: center;
     font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
@@ -121,7 +121,7 @@ hr{
     font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica,Arial,sans-serif;
 }
 .instagram_ph{
-    margin-left: 10%;
+    margin-left: 12%;
 }
 .reg_form input:focus{
     border-style: outset;
